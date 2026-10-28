@@ -1,9 +1,27 @@
+# Dependencies
 node_modules/
+**/node_modules/
+
+# Environment variables
 .env
 .env.*
 !.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Build files
 dist/
 build/
-coverage/
-.DS_Store
+**/dist/
+
+# Logs
+*.log
 npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
