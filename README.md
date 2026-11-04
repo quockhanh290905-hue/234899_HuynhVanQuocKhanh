@@ -11,4 +11,5 @@
 - **Database:** MongoDB Atlas (`234899_HuynhVanQuocKhanh` - Collection: `devices`)
 - **Đóng gói & Triển khai:** Docker, Docker Hub, Render
 
-## 3. Cấu trúc dự án
+## 3. Cấu trúc dự án# Đứng từ thư mục gốc (thư mục chứa backend và frontend, có vẻ như là D:\234899_HuynhVanQuocKhanh\234899_HuynhVanQuocKhanh)
+npm create vite@latest frontend -- --template react
